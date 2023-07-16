@@ -1,5 +1,4 @@
 from OtimizaLucro import OtimizaLucro
-from unidecode import unidecode
 import pandas as pd
 import numpy as np
 import os
